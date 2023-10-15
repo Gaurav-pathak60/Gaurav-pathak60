@@ -1,5 +1,4 @@
 ![image](https://github.com/Gaurav-pathak60/Gaurav-pathak60/assets/116240915/53c3d51b-7641-4764-aa49-1f98797a84bd)
-<h1 align="center">Hi 👋, I'm Gaurav Pathak</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <img align="right"  width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="">
 
